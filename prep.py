@@ -1,3 +1,14 @@
+#!/usr/bin/env python
+'''
+If I understand the provenance correctly then this script is adapted from:
+
+https://github.com/mrocklin/fakestockdata
+
+Its purpose is to help with creating a suitable number and size of data
+files for workshops, tutorials, and training courses when it is unreasonable
+to expect the participants to download the content.
+'''
+
 import os
 import sys
 
