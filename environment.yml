@@ -1,0 +1,23 @@
+name: daskwkshp
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python =3.6
+  - bokeh
+  - dask
+  - distributed
+  - graphviz
+  - python-graphviz
+  - ipyparallel
+  - joblib
+  - jupyter
+  - matplotlib
+  - notebook =5
+  - pandas =0.19
+  - pandas-datareader
+  - pytables
+  - scikit-learn
+  - seaborn
+  - snakeviz
+  - ujson
