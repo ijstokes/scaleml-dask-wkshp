@@ -40,5 +40,5 @@ This hands-on 3 hour workshop will give participants an opportunity to explore [
 ## conda environment
 
 ```bash
-conda create -n daskwkshp dask scikit-learn jupyter notebook=5 python-graphviz pandas python=3.6
+conda env create ijstokes/daskwkshp
 ```
